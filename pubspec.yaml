@@ -1,8 +1,8 @@
 name: scarlet
-description: A new Flutter package project.
+description: This a Theme based on material to make app development easy!
 version: 0.0.1
-author:
-homepage:
+author: Arash Mohammadi<arash13131313@gmail.com>
+homepage: https://github.com/arashAndroid/scarlet.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
